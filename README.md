@@ -3,8 +3,7 @@
 ```
 > docker-compose build
 > docker-compose up -d
-> docker ps
-> docker exec -it <CONTAINER ID> mysql
+> docker exec -it mysql-test mysql
 ```
 
 ## Impremented sample tables

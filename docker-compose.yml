@@ -4,6 +4,7 @@ services:
     build: ./mysql/
     volumes:
       - ./mysql/db:/docker-entrypoint-initdb.d
+    container_name: mysql-test
     environment:
       - MYSQL_ROOT_PASSWORD=
       - MYSQL_ALLOW_EMPTY_PASSWORD=yes

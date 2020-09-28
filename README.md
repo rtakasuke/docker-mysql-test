@@ -1,4 +1,6 @@
 # docker-mysql-test
+MySQL test environment with small sample data.
+
 ## Usage
 ```
 > docker-compose build

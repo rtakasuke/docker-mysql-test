@@ -1,3 +1,5 @@
+![Lint](https://github.com/rtakasuke/docker-mysql-test/workflows/Lint/badge.svg)
+
 # docker-mysql-test
 MySQL test environment with small sample data.
 

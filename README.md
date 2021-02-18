@@ -7,7 +7,7 @@ MySQL test environment with small sample data.
 ```
 > docker-compose build
 > docker-compose up -d
-> docker exec -it mysql-test mysql
+> docker exec -it test-mysql mysql
 ```
 
 ## Impremented sample tables
